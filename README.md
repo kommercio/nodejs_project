@@ -1,5 +1,7 @@
 # NODE.JS & Mongo DB Test Project
 
+For submission, please send Github link of the test project.
+
 ## Task 1
 ### Create this endpoint: [POST] `/api/product`
 Save a Product into a database. Product should have these properties:
